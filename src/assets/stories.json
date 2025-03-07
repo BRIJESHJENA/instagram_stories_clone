@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "username": "John",
+    "profilePic": "https://randomuser.me/api/portraits/men/1.jpg",
+    "stories": [
+      {
+        "id": 101,
+        "image": "https://images.unsplash.com/photo-1726065235221-78562122baf3?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 102,
+        "image": "https://plus.unsplash.com/premium_photo-1679691282737-bc3dac4499a3?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "username": "Emma",
+    "profilePic": "https://randomuser.me/api/portraits/women/2.jpg",
+    "stories": [
+      {
+        "id": 201,
+        "image": "https://images.unsplash.com/photo-1741087562365-d0bf6e6fd7ef?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 202,
+        "image": "https://images.unsplash.com/photo-1735774188783-7def2a426dfa?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 203,
+        "image": "https://images.unsplash.com/photo-1740452527478-f88a376fd591?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+    ]
+  }
+]
